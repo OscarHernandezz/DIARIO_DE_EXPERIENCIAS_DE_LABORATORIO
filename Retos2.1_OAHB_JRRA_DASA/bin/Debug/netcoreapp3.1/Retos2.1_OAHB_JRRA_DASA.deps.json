@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Retos2.1_OAHB_JRRA_DASA/1.0.0": {
+        "runtime": {
+          "Retos2.1_OAHB_JRRA_DASA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Retos2.1_OAHB_JRRA_DASA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

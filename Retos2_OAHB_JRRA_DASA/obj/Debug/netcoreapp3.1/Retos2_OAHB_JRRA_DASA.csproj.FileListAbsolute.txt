@@ -1,0 +1,14 @@
+C:\Users\Alexa\Documents\Universidad 2022\Progra\10.0.0\Retos2_OAHB_JRRA_DASA\obj\Debug\netcoreapp3.1\Retos2_OAHB_JRRA_DASA.csproj.AssemblyReference.cache
+C:\Users\Alexa\Documents\Universidad 2022\Progra\10.0.0\Retos2_OAHB_JRRA_DASA\obj\Debug\netcoreapp3.1\Retos2_OAHB_JRRA_DASA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexa\Documents\Universidad 2022\Progra\10.0.0\Retos2_OAHB_JRRA_DASA\obj\Debug\netcoreapp3.1\Retos2_OAHB_JRRA_DASA.AssemblyInfoInputs.cache
+C:\Users\Alexa\Documents\Universidad 2022\Progra\10.0.0\Retos2_OAHB_JRRA_DASA\obj\Debug\netcoreapp3.1\Retos2_OAHB_JRRA_DASA.AssemblyInfo.cs
+C:\Users\Alexa\Documents\Universidad 2022\Progra\10.0.0\Retos2_OAHB_JRRA_DASA\obj\Debug\netcoreapp3.1\Retos2_OAHB_JRRA_DASA.csproj.CoreCompileInputs.cache
+C:\Users\Alexa\Documents\Universidad 2022\Progra\10.0.0\Retos2_OAHB_JRRA_DASA\bin\Debug\netcoreapp3.1\Retos2_OAHB_JRRA_DASA.exe
+C:\Users\Alexa\Documents\Universidad 2022\Progra\10.0.0\Retos2_OAHB_JRRA_DASA\bin\Debug\netcoreapp3.1\Retos2_OAHB_JRRA_DASA.deps.json
+C:\Users\Alexa\Documents\Universidad 2022\Progra\10.0.0\Retos2_OAHB_JRRA_DASA\bin\Debug\netcoreapp3.1\Retos2_OAHB_JRRA_DASA.runtimeconfig.json
+C:\Users\Alexa\Documents\Universidad 2022\Progra\10.0.0\Retos2_OAHB_JRRA_DASA\bin\Debug\netcoreapp3.1\Retos2_OAHB_JRRA_DASA.runtimeconfig.dev.json
+C:\Users\Alexa\Documents\Universidad 2022\Progra\10.0.0\Retos2_OAHB_JRRA_DASA\bin\Debug\netcoreapp3.1\Retos2_OAHB_JRRA_DASA.dll
+C:\Users\Alexa\Documents\Universidad 2022\Progra\10.0.0\Retos2_OAHB_JRRA_DASA\bin\Debug\netcoreapp3.1\Retos2_OAHB_JRRA_DASA.pdb
+C:\Users\Alexa\Documents\Universidad 2022\Progra\10.0.0\Retos2_OAHB_JRRA_DASA\obj\Debug\netcoreapp3.1\Retos2_OAHB_JRRA_DASA.dll
+C:\Users\Alexa\Documents\Universidad 2022\Progra\10.0.0\Retos2_OAHB_JRRA_DASA\obj\Debug\netcoreapp3.1\Retos2_OAHB_JRRA_DASA.pdb
+C:\Users\Alexa\Documents\Universidad 2022\Progra\10.0.0\Retos2_OAHB_JRRA_DASA\obj\Debug\netcoreapp3.1\Retos2_OAHB_JRRA_DASA.genruntimeconfig.cache

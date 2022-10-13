@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Retos2.1_OAHB_JRRA_DASA", "Retos2.1_OAHB_JRRA_DASA.csproj", "{1B0D7E01-B0FB-4611-B74A-439B3DCB71A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B0D7E01-B0FB-4611-B74A-439B3DCB71A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B0D7E01-B0FB-4611-B74A-439B3DCB71A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B0D7E01-B0FB-4611-B74A-439B3DCB71A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B0D7E01-B0FB-4611-B74A-439B3DCB71A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {343F7942-86B3-4541-8E79-E0ADB67B44E0}
+	EndGlobalSection
+EndGlobal
