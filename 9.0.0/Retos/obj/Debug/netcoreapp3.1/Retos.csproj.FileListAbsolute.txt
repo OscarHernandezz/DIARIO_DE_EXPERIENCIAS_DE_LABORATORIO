@@ -1,0 +1,14 @@
+C:\Users\Alexa\Documents\Universidad 2022\Progra\9.0.0\Retos\bin\Debug\netcoreapp3.1\Retos.exe
+C:\Users\Alexa\Documents\Universidad 2022\Progra\9.0.0\Retos\bin\Debug\netcoreapp3.1\Retos.deps.json
+C:\Users\Alexa\Documents\Universidad 2022\Progra\9.0.0\Retos\bin\Debug\netcoreapp3.1\Retos.runtimeconfig.json
+C:\Users\Alexa\Documents\Universidad 2022\Progra\9.0.0\Retos\bin\Debug\netcoreapp3.1\Retos.runtimeconfig.dev.json
+C:\Users\Alexa\Documents\Universidad 2022\Progra\9.0.0\Retos\bin\Debug\netcoreapp3.1\Retos.dll
+C:\Users\Alexa\Documents\Universidad 2022\Progra\9.0.0\Retos\bin\Debug\netcoreapp3.1\Retos.pdb
+C:\Users\Alexa\Documents\Universidad 2022\Progra\9.0.0\Retos\obj\Debug\netcoreapp3.1\Retos.csproj.AssemblyReference.cache
+C:\Users\Alexa\Documents\Universidad 2022\Progra\9.0.0\Retos\obj\Debug\netcoreapp3.1\Retos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexa\Documents\Universidad 2022\Progra\9.0.0\Retos\obj\Debug\netcoreapp3.1\Retos.AssemblyInfoInputs.cache
+C:\Users\Alexa\Documents\Universidad 2022\Progra\9.0.0\Retos\obj\Debug\netcoreapp3.1\Retos.AssemblyInfo.cs
+C:\Users\Alexa\Documents\Universidad 2022\Progra\9.0.0\Retos\obj\Debug\netcoreapp3.1\Retos.csproj.CoreCompileInputs.cache
+C:\Users\Alexa\Documents\Universidad 2022\Progra\9.0.0\Retos\obj\Debug\netcoreapp3.1\Retos.dll
+C:\Users\Alexa\Documents\Universidad 2022\Progra\9.0.0\Retos\obj\Debug\netcoreapp3.1\Retos.pdb
+C:\Users\Alexa\Documents\Universidad 2022\Progra\9.0.0\Retos\obj\Debug\netcoreapp3.1\Retos.genruntimeconfig.cache
