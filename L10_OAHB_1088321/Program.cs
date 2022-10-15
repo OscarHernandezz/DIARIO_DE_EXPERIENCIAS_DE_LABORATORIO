@@ -7,42 +7,45 @@ namespace L10_OAHB_1088321
         static void Main(string[] args)
         {
             string usuario, contrasena;
-            Console.WriteLine("ingrese su usuario");
-            usuario = Console.ReadLine();
-            Console.WriteLine("ingrese su contraseña");
-            contrasena = Console.ReadLine();
-
-            int inicio = Login("usuario1", "asdasd");
-
-            
+            int contador = 0;
+            bool inicio;
+            while (contador < 3)
+            {
+                Console.WriteLine("Ingrese su nombre de usuario");
+                usuario = Console.ReadLine();
+                Console.WriteLine("Ingrese su contraseña");
+                contrasena = Console.ReadLine();
+                inicio = Login(usuario, contrasena);
+                if (inicio == true)
+                {
+                    contador = 3;
+                    Console.Clear();
+                    Console.WriteLine();
+                    Console.WriteLine("Inicio de sesión exitoso");
+                }
+                else
+                {
+                    contador++;
+                    Console.Clear();
+                    Console.WriteLine("");
+                    Console.WriteLine("              Usuario o contraseña incorrectos, intente de nuevo");
+                    Console.WriteLine("");
+                }
+            }
             Console.ReadKey();
         }
-        public static bool Login(string usuario, string contrasena)
-        {
-            bool inicio = false;
-                int contador = 0;
 
-            if (usuario != "usuario1" && contrasena != "asdasd")
+        static bool Login (string usuario, string contrasena)
+        {
+
+            if (usuario == "usuario1" && contrasena=="asdasd")
             {
-                do
-                {
-                    Console.WriteLine("ingrese su usuario");
-                    usuario = Console.ReadLine();
-                    Console.WriteLine("ingrese su contraseña");
-                    contrasena = Console.ReadLine();
-                    contador++;
-                } while (contador < 4);
-                inicio = false;
-            }
-            else if (usuario == "usuario1" && contrasena == "asdasd")
-            {
-                inicio = true;
+                return true;
             }
             else
             {
-                Console.WriteLine("ingrese usuario y contraseña válidos");
+                return false;
             }
-            return inicio;
         }
     }
 }
