@@ -1,0 +1,14 @@
+C:\Users\Alexa\Documents\Universidad 2022\Progra\11.0.0\L12_OAHB_1088321\bin\Debug\netcoreapp3.1\L12_OAHB_1088321.exe
+C:\Users\Alexa\Documents\Universidad 2022\Progra\11.0.0\L12_OAHB_1088321\bin\Debug\netcoreapp3.1\L12_OAHB_1088321.deps.json
+C:\Users\Alexa\Documents\Universidad 2022\Progra\11.0.0\L12_OAHB_1088321\bin\Debug\netcoreapp3.1\L12_OAHB_1088321.runtimeconfig.json
+C:\Users\Alexa\Documents\Universidad 2022\Progra\11.0.0\L12_OAHB_1088321\bin\Debug\netcoreapp3.1\L12_OAHB_1088321.runtimeconfig.dev.json
+C:\Users\Alexa\Documents\Universidad 2022\Progra\11.0.0\L12_OAHB_1088321\bin\Debug\netcoreapp3.1\L12_OAHB_1088321.dll
+C:\Users\Alexa\Documents\Universidad 2022\Progra\11.0.0\L12_OAHB_1088321\bin\Debug\netcoreapp3.1\L12_OAHB_1088321.pdb
+C:\Users\Alexa\Documents\Universidad 2022\Progra\11.0.0\L12_OAHB_1088321\obj\Debug\netcoreapp3.1\L12_OAHB_1088321.csproj.AssemblyReference.cache
+C:\Users\Alexa\Documents\Universidad 2022\Progra\11.0.0\L12_OAHB_1088321\obj\Debug\netcoreapp3.1\L12_OAHB_1088321.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexa\Documents\Universidad 2022\Progra\11.0.0\L12_OAHB_1088321\obj\Debug\netcoreapp3.1\L12_OAHB_1088321.AssemblyInfoInputs.cache
+C:\Users\Alexa\Documents\Universidad 2022\Progra\11.0.0\L12_OAHB_1088321\obj\Debug\netcoreapp3.1\L12_OAHB_1088321.AssemblyInfo.cs
+C:\Users\Alexa\Documents\Universidad 2022\Progra\11.0.0\L12_OAHB_1088321\obj\Debug\netcoreapp3.1\L12_OAHB_1088321.csproj.CoreCompileInputs.cache
+C:\Users\Alexa\Documents\Universidad 2022\Progra\11.0.0\L12_OAHB_1088321\obj\Debug\netcoreapp3.1\L12_OAHB_1088321.dll
+C:\Users\Alexa\Documents\Universidad 2022\Progra\11.0.0\L12_OAHB_1088321\obj\Debug\netcoreapp3.1\L12_OAHB_1088321.pdb
+C:\Users\Alexa\Documents\Universidad 2022\Progra\11.0.0\L12_OAHB_1088321\obj\Debug\netcoreapp3.1\L12_OAHB_1088321.genruntimeconfig.cache

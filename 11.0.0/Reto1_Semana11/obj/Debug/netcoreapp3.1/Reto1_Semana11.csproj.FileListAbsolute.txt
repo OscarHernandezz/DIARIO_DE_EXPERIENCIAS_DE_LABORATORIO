@@ -1,0 +1,14 @@
+C:\Users\Alexa\Documents\Universidad 2022\Progra\11.0.0\Reto1_Semana11\bin\Debug\netcoreapp3.1\Reto1_Semana11.exe
+C:\Users\Alexa\Documents\Universidad 2022\Progra\11.0.0\Reto1_Semana11\bin\Debug\netcoreapp3.1\Reto1_Semana11.deps.json
+C:\Users\Alexa\Documents\Universidad 2022\Progra\11.0.0\Reto1_Semana11\bin\Debug\netcoreapp3.1\Reto1_Semana11.runtimeconfig.json
+C:\Users\Alexa\Documents\Universidad 2022\Progra\11.0.0\Reto1_Semana11\bin\Debug\netcoreapp3.1\Reto1_Semana11.runtimeconfig.dev.json
+C:\Users\Alexa\Documents\Universidad 2022\Progra\11.0.0\Reto1_Semana11\bin\Debug\netcoreapp3.1\Reto1_Semana11.dll
+C:\Users\Alexa\Documents\Universidad 2022\Progra\11.0.0\Reto1_Semana11\bin\Debug\netcoreapp3.1\Reto1_Semana11.pdb
+C:\Users\Alexa\Documents\Universidad 2022\Progra\11.0.0\Reto1_Semana11\obj\Debug\netcoreapp3.1\Reto1_Semana11.csproj.AssemblyReference.cache
+C:\Users\Alexa\Documents\Universidad 2022\Progra\11.0.0\Reto1_Semana11\obj\Debug\netcoreapp3.1\Reto1_Semana11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexa\Documents\Universidad 2022\Progra\11.0.0\Reto1_Semana11\obj\Debug\netcoreapp3.1\Reto1_Semana11.AssemblyInfoInputs.cache
+C:\Users\Alexa\Documents\Universidad 2022\Progra\11.0.0\Reto1_Semana11\obj\Debug\netcoreapp3.1\Reto1_Semana11.AssemblyInfo.cs
+C:\Users\Alexa\Documents\Universidad 2022\Progra\11.0.0\Reto1_Semana11\obj\Debug\netcoreapp3.1\Reto1_Semana11.csproj.CoreCompileInputs.cache
+C:\Users\Alexa\Documents\Universidad 2022\Progra\11.0.0\Reto1_Semana11\obj\Debug\netcoreapp3.1\Reto1_Semana11.dll
+C:\Users\Alexa\Documents\Universidad 2022\Progra\11.0.0\Reto1_Semana11\obj\Debug\netcoreapp3.1\Reto1_Semana11.pdb
+C:\Users\Alexa\Documents\Universidad 2022\Progra\11.0.0\Reto1_Semana11\obj\Debug\netcoreapp3.1\Reto1_Semana11.genruntimeconfig.cache
