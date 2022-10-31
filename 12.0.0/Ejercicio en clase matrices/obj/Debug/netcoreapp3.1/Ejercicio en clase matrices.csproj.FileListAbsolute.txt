@@ -1,0 +1,14 @@
+C:\Users\Alexa\Documents\Universidad 2022\Progra\12.0.0\Ejercicio en clase matrices\obj\Debug\netcoreapp3.1\Ejercicio en clase matrices.csproj.AssemblyReference.cache
+C:\Users\Alexa\Documents\Universidad 2022\Progra\12.0.0\Ejercicio en clase matrices\obj\Debug\netcoreapp3.1\Ejercicio en clase matrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexa\Documents\Universidad 2022\Progra\12.0.0\Ejercicio en clase matrices\obj\Debug\netcoreapp3.1\Ejercicio en clase matrices.AssemblyInfoInputs.cache
+C:\Users\Alexa\Documents\Universidad 2022\Progra\12.0.0\Ejercicio en clase matrices\obj\Debug\netcoreapp3.1\Ejercicio en clase matrices.AssemblyInfo.cs
+C:\Users\Alexa\Documents\Universidad 2022\Progra\12.0.0\Ejercicio en clase matrices\obj\Debug\netcoreapp3.1\Ejercicio en clase matrices.csproj.CoreCompileInputs.cache
+C:\Users\Alexa\Documents\Universidad 2022\Progra\12.0.0\Ejercicio en clase matrices\bin\Debug\netcoreapp3.1\Ejercicio en clase matrices.exe
+C:\Users\Alexa\Documents\Universidad 2022\Progra\12.0.0\Ejercicio en clase matrices\bin\Debug\netcoreapp3.1\Ejercicio en clase matrices.deps.json
+C:\Users\Alexa\Documents\Universidad 2022\Progra\12.0.0\Ejercicio en clase matrices\bin\Debug\netcoreapp3.1\Ejercicio en clase matrices.runtimeconfig.json
+C:\Users\Alexa\Documents\Universidad 2022\Progra\12.0.0\Ejercicio en clase matrices\bin\Debug\netcoreapp3.1\Ejercicio en clase matrices.runtimeconfig.dev.json
+C:\Users\Alexa\Documents\Universidad 2022\Progra\12.0.0\Ejercicio en clase matrices\bin\Debug\netcoreapp3.1\Ejercicio en clase matrices.dll
+C:\Users\Alexa\Documents\Universidad 2022\Progra\12.0.0\Ejercicio en clase matrices\bin\Debug\netcoreapp3.1\Ejercicio en clase matrices.pdb
+C:\Users\Alexa\Documents\Universidad 2022\Progra\12.0.0\Ejercicio en clase matrices\obj\Debug\netcoreapp3.1\Ejercicio en clase matrices.dll
+C:\Users\Alexa\Documents\Universidad 2022\Progra\12.0.0\Ejercicio en clase matrices\obj\Debug\netcoreapp3.1\Ejercicio en clase matrices.pdb
+C:\Users\Alexa\Documents\Universidad 2022\Progra\12.0.0\Ejercicio en clase matrices\obj\Debug\netcoreapp3.1\Ejercicio en clase matrices.genruntimeconfig.cache
