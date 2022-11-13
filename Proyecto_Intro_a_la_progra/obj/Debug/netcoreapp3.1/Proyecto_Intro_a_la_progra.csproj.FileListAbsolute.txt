@@ -1,0 +1,14 @@
+C:\Users\Alexa\Documents\Universidad 2022\Progra\Proyecto_Intro_a_la_progra\bin\Debug\netcoreapp3.1\Proyecto_Intro_a_la_progra.exe
+C:\Users\Alexa\Documents\Universidad 2022\Progra\Proyecto_Intro_a_la_progra\bin\Debug\netcoreapp3.1\Proyecto_Intro_a_la_progra.deps.json
+C:\Users\Alexa\Documents\Universidad 2022\Progra\Proyecto_Intro_a_la_progra\bin\Debug\netcoreapp3.1\Proyecto_Intro_a_la_progra.runtimeconfig.json
+C:\Users\Alexa\Documents\Universidad 2022\Progra\Proyecto_Intro_a_la_progra\bin\Debug\netcoreapp3.1\Proyecto_Intro_a_la_progra.runtimeconfig.dev.json
+C:\Users\Alexa\Documents\Universidad 2022\Progra\Proyecto_Intro_a_la_progra\bin\Debug\netcoreapp3.1\Proyecto_Intro_a_la_progra.dll
+C:\Users\Alexa\Documents\Universidad 2022\Progra\Proyecto_Intro_a_la_progra\bin\Debug\netcoreapp3.1\Proyecto_Intro_a_la_progra.pdb
+C:\Users\Alexa\Documents\Universidad 2022\Progra\Proyecto_Intro_a_la_progra\obj\Debug\netcoreapp3.1\Proyecto_Intro_a_la_progra.csproj.AssemblyReference.cache
+C:\Users\Alexa\Documents\Universidad 2022\Progra\Proyecto_Intro_a_la_progra\obj\Debug\netcoreapp3.1\Proyecto_Intro_a_la_progra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexa\Documents\Universidad 2022\Progra\Proyecto_Intro_a_la_progra\obj\Debug\netcoreapp3.1\Proyecto_Intro_a_la_progra.AssemblyInfoInputs.cache
+C:\Users\Alexa\Documents\Universidad 2022\Progra\Proyecto_Intro_a_la_progra\obj\Debug\netcoreapp3.1\Proyecto_Intro_a_la_progra.AssemblyInfo.cs
+C:\Users\Alexa\Documents\Universidad 2022\Progra\Proyecto_Intro_a_la_progra\obj\Debug\netcoreapp3.1\Proyecto_Intro_a_la_progra.csproj.CoreCompileInputs.cache
+C:\Users\Alexa\Documents\Universidad 2022\Progra\Proyecto_Intro_a_la_progra\obj\Debug\netcoreapp3.1\Proyecto_Intro_a_la_progra.dll
+C:\Users\Alexa\Documents\Universidad 2022\Progra\Proyecto_Intro_a_la_progra\obj\Debug\netcoreapp3.1\Proyecto_Intro_a_la_progra.pdb
+C:\Users\Alexa\Documents\Universidad 2022\Progra\Proyecto_Intro_a_la_progra\obj\Debug\netcoreapp3.1\Proyecto_Intro_a_la_progra.genruntimeconfig.cache
